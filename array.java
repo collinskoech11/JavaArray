@@ -57,7 +57,7 @@ class array{
         }
     System.out.println("\n the sum of the array is :"+summation);
     System.out.println("\n the product of the array is :"+prod);
-    System.out.println("\n Enter no to be checked if palindrome: ");
+    System.out.println("\n Enter no to be checked if palindrome : ");
     int r,sum=0,temp;
     Scanner bc =new Scanner(System.in);
     int n = bc.nextInt();
